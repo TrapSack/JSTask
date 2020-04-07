@@ -1,0 +1,13 @@
+body { 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 720px;
+}
+
+.main-button { 
+    padding: 20px;
+    color: red;
+    font-size: 25;
+}
